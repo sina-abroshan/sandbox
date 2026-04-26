@@ -134,7 +134,7 @@ jobs:
               COOKIE_ARG=""
               if [ -s youtube_cookies.txt ]; then COOKIE_ARG="--cookies youtube_cookies.txt"; fi
 
-              yt-dlp --js-runtimes bun:$HOME/.bun/bin/bun $COOKIE_ARG -o "tmp_downloads/%(title)s.%(ext)s" "$URL"
+              yt-dlp --extractor-args "youtube:player_client=android" --js-runtimes bun:$HOME/.bun/bin/bun $COOKIE_ARG -o "tmp_downloads/%(title)s.%(ext)s" "$URL"
 
             else
               echo "⬇️ Downloading with aria2: $URL"
