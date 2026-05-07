@@ -2,6 +2,30 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-07 17:26 IR
+- 🗜️ [resolute-server-cloudimg-amd64.ova.zip](https://github.com/sina-abroshan/sandbox/raw/main/dl/resolute-server-cloudimg-amd64.ova.zip) `10.9MB`
+
+- 🗜️ [resolute-server-cloudimg-amd64.ova.z01](https://github.com/sina-abroshan/sandbox/raw/main/dl/resolute-server-cloudimg-amd64.ova.z01) `95.0MB`
+
+- 🗜️ [resolute-server-cloudimg-amd64.ova.z02](https://github.com/sina-abroshan/sandbox/raw/main/dl/resolute-server-cloudimg-amd64.ova.z02) `95.0MB`
+
+- 🗜️ [resolute-server-cloudimg-amd64.ova.z03](https://github.com/sina-abroshan/sandbox/raw/main/dl/resolute-server-cloudimg-amd64.ova.z03) `95.0MB`
+
+- 🗜️ [resolute-server-cloudimg-amd64.ova.z04](https://github.com/sina-abroshan/sandbox/raw/main/dl/resolute-server-cloudimg-amd64.ova.z04) `95.0MB`
+
+- 🗜️ [resolute-server-cloudimg-amd64.ova.z05](https://github.com/sina-abroshan/sandbox/raw/main/dl/resolute-server-cloudimg-amd64.ova.z05) `95.0MB`
+
+- 🗜️ [resolute-server-cloudimg-amd64.ova.z06](https://github.com/sina-abroshan/sandbox/raw/main/dl/resolute-server-cloudimg-amd64.ova.z06) `95.0MB`
+
+- 🗜️ [resolute-server-cloudimg-amd64.ova.z07](https://github.com/sina-abroshan/sandbox/raw/main/dl/resolute-server-cloudimg-amd64.ova.z07) `95.0MB`
+
+- 🗜️ [resolute-server-cloudimg-amd64.ova.z08](https://github.com/sina-abroshan/sandbox/raw/main/dl/resolute-server-cloudimg-amd64.ova.z08) `95.0MB`
+
+- 🗜️ [resolute-server-cloudimg-amd64.ova.zip](https://github.com/sina-abroshan/sandbox/raw/main/dl/resolute-server-cloudimg-amd64.ova.zip) `10.9MB`
+
+---
+
+
 ### 📅 2026-05-07 14:23 IR
 - 📥 [kind-windows-amd64](https://github.com/sina-abroshan/sandbox/raw/main/dl/kind-windows-amd64) `10.8MB`
 
